@@ -1,0 +1,18 @@
+
+@font-face {
+	font-family: 'PTRootUI'; // WebMedium
+	src: 
+		url('./assets/fonts/pt-root-ui_medium.woff2') format('woff2'),
+		url('./assets/fonts/pt-root-ui_medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PTRootUI'; // WebBold
+	src: 
+		url('./assets/fonts/pt-root-ui_bold.woff2') format('woff2'),
+		url('./assets/fonts/pt-root-ui_bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
